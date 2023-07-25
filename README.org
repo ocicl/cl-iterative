@@ -1,0 +1,10 @@
+* cl-iterative
+
+Flexible general iterative algorithm for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mobius-eng/cl-iterative.git   |
+| commit  | fd9a18a  |
+| systems | cl-iterative |
+|---------+-------------------------------------------|
+
